@@ -9,15 +9,8 @@ This is an interactive **Business Intelligence (BI) Dashboard** built to analyze
 
 The application transforms raw sales data into actionable insights using dynamic visualizations, enabling users to track Key Performance Indicators (KPIs) in real-time.
 
-### 🔗 [Click Here for Live Demo](https://share.streamlit.io/) 
-*(Note: Use your actual deployed Streamlit link here)*
-
----
-
-## 📸 Project Screenshot
-> *Tip: Take a screenshot of your dashboard, upload it to this folder, name it `screenshot.png`, and it will appear below.*
-
-![Dashboard Preview](screenshot.png)
+### website link
+### 🔗 https://ecommerce-sales-dashboard.onrender.com
 
 ---
 
@@ -74,10 +67,3 @@ streamlit run app.py
 Developed by Wasim
 
 
-### **One Pro Tip:**
-To make the **Screenshot** work:
-1.  Take a screenshot of your running app.
-2.  Name the file `screenshot.png`.
-3.  Put it inside your `ecommerce-dashboard` folder.
-4.  Push it to GitHub.
-It will automatically show up in the README!
